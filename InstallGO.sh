@@ -13,5 +13,7 @@ clear
 echo "GoLang has been installed succesfully"
 sleep 2s
 clear
+echo "You must need to logout and login again to complete the Installation"
+echo "#####################################################################"
 echo "Installation path is /usr/local/go"
 echo "For more info visit http://jamesnbr.wordpress.com"
