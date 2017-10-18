@@ -7,6 +7,6 @@ Go Version : 1.9.1
 
 Login as root user,
 
-sh InstallGO.sh
+*sh InstallGO.sh*
 
 And follow the instruction.
