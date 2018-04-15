@@ -3,9 +3,9 @@
 #Installing imp packages
 yum install wget unzip -y
 ##Donwloading Go Package
-wget -O /opt/go1.9.1.linux-amd64.tar.gz https://storage.googleapis.com/golang/go1.9.1.linux-amd64.tar.gz
+wget -O /opt/go1.9.2.linux-amd64.tar.gz https://storage.googleapis.com/golang/go1.9.2.linux-amd64.tar.gz
 ##Extract packages to a location
-tar -C /usr/local -xzf /opt/go1.9.1.linux-amd64.tar.gz
+tar -C /usr/local -xzf /opt/go1.9.2.linux-amd64.tar.gz
 ##Export Variable path
 echo "export PATH=$PATH:/usr/local/go/bin" >> /etc/profile
 ##Installation completed.
